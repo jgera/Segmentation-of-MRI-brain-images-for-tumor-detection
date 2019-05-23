@@ -1,4 +1,3 @@
-# Apurva Mithal
 
 Project Title: Segmentation of MRI brain images for tumor detection.
 	    	              	             
